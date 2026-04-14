@@ -68,13 +68,13 @@ Below is a subset of the results, illustrating current and projected distributio
 **Current Distribution**
 
 <p align="center">
-  <img src="current_predict.png" width="500"/>
+  <img src="images/current_predict.png" width="500"/>
 </p>
 
 **Future Projection**
 
 <p align="center">
-  <img src="pessimist-future_predict.png" width="500"/>
+  <img src="images/pessimist-future_predict.png" width="500"/>
 </p>
 
 ---
