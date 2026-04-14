@@ -61,20 +61,10 @@ It includes:
 
 The analysis revealed distinct spatial patterns in cetacean distribution influenced by environmental conditions.
 
-Below is a subset of the results, illustrating current and projected distribution patterns.
-
-#### Current and Future Distribution Projections
-
-**Current Distribution**
+The figure below illustrates an example of the spatial distribution derived from the modeling workflow.
 
 <p align="center">
   <img src="images/current_predict.png" width="500"/>
-</p>
-
-**Future Projection**
-
-<p align="center">
-  <img src="images/pessimist-future_predict.png" width="500"/>
 </p>
 
 ---
