@@ -67,11 +67,15 @@ Below is a subset of the results, illustrating current and projected distributio
 
 **Current Distribution**
 
-![Current Map](images/current_map.png)
+<p align="center">
+  <img src="current_predict.png" width="500"/>
+</p>
 
 **Future Projection**
 
-![Future Map](images/future_map.png)
+<p align="center">
+  <img src="pessimist-future_predict.png" width="500"/>
+</p>
 
 ---
 
