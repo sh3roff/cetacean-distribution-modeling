@@ -1,5 +1,18 @@
 ###################################  AQUISIÇÃO DE VARIVÁVEIS AMBIENTAIS ###################################
 
+library(sf)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(tibble)
+library(lubridate)
+library(ISOweek)
+library(ncdf4)
+library(terra)
+library(raster)
+library(reticulate)
+library(lwgeom)
+library(CCAMLRGIS)
 
 #### Parte 4 - VARIABLES_ACQUISITION: Vetor da linha de costa ####
 
